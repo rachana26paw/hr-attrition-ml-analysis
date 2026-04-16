@@ -109,9 +109,9 @@ Even small improvements here can have real financial impact for companies.
 ## How to run
 
 1. Download the dataset from Kaggle
+Dataset link: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 2. Place the CSV in the project folder
-3. Dataset link: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
-4. Run:
+3. Run:
 ```bash id="l2n8fw"
 jupyter notebook IBM_HR_AdvancedML_Complete_2.ipynb
 ```
